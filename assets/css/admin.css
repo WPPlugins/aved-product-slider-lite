@@ -1,0 +1,35 @@
+div#aved_slider_lite div.main h3,div.front-option h3, div#aved_slider_lite div.slide_table h3{text-align:center;background-color:#444;color:#00b9eb;margin-top:0;}
+div#aved_slider_lite div input[type="text"]{background-color:#444;color:#00b9eb;}
+div#aved_slider_lite div.option_table{width: 80%;height: 500px;overflow: auto;}
+div#aved_slider_lite div.option_table form > * {width: 80%;text-align: center;background-color: #f2f2f2;}
+div#aved_slider_lite div.option_table form input {text-align: left;}
+div#aved_slider_lite div.option_table form input#saved_slider {
+        width:100px;height:25px;
+        text-align: center;position: fixed; z-index: 1000;
+        right: 10px;top: 50px;
+}
+div#aved_slider_lite input#addSlide{width:100px;height:25px;vertical-align:middle;
+        position: fixed; z-index: 1000;
+        right:10px;
+        top:80px;
+}
+div#aved_slider_lite div.slide_table{
+        width:80%;
+}
+div#aved_slider_lite div.slide_table input{
+        width:70%;
+        height:50px; text-align: left;
+}
+
+div#aved_slider_lite input[type="button"],div#aved_slider_lite input[type="submit"]{
+	background-color:#444;
+  	color:#00b9eb;
+      	border: 1px solid #00b9eb;
+}
+div#aved_slider_lite input[type="button"]:hover,div#aved_slider_lite input[type="submit"]:hover{
+	 background-color:#222;
+         border-right: 10px solid;
+}
+div#aved_slider_lite div.slide_table input.del{width:70px; height:50px;}
+.front-option table{border-collapse: collapse; border:2px solid #444;}
+.front-option table td{border:1px solid #444; padding:5px;}

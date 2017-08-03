@@ -1,0 +1,36 @@
+.content {
+    width: 80%!important;
+    margin: auto!important;
+}
+
+@media screen and (max-width: 1200px) {
+	
+}
+@media screen and (max-width: 768px) {
+	
+}
+@media screen and (max-width: 600px) {
+	
+}
+@media screen and (max-width: 500px) {
+	
+}
+@media screen and (max-width: 430px) {
+	
+}
+@media screen and (max-width: 400px) {
+	.woocommerce ul.products li.product .added_to_cart{font-size: 12px!important;}
+}
+@media screen and (max-width: 360px) {
+	
+}
+
+
+
+.content .your-class.slick-initialized.slick-slider .slick-list.draggable .slick-track .slick-slide .woocommerce ul.products li{
+	width: 80%;
+    margin-right: 10%;
+    margin-left: 10%;
+}
+
+.slider-aved-title{width: 100%;text-align: center; margin: 0 auto; font-size: 18pt;}
